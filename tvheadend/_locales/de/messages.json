@@ -1,32 +1,32 @@
 {
-    "desc": {
-        "message": "Launch App für Tvheadend oder andere TV Streams."
-    },
-    "github": {
-        "message": "<a href='https://github.com/mosterme/chrome-launch-app-tvheadend'>https://github.com/mosterme/chrome-launch-app-tvheadend</a>"
-    },
-    "link": {
-        "message": "Links"
-    },
-    "name": {
-        "message": "Launch App - Tvheadend"
-    },
-    "options": {
-        "message": "Tvheadend - Optionen"
-    },
-    "save": {
-        "message": "Speichern und Los"
-    },
-    "short": {
-        "message": "Fernsehen"
-    },
-    "simply": {
-        "message": "Goog-TV aus <a href='http://chadjackson.deviantart.com/art/Simply-Google-II-Part-I-192918636'>Simply Google II: Part I</a> von <a href='http://chadjackson.deviantart.com/'>Chad Jackson</a>."
-    },
-    "tvhead": {
-        "message": "<a href='https://tvheadend.org'>Tvheadend</a> ist ein TV-Streaming-Server für Linux."
-    },
-    "url": {
-        "message": "URL"
-    }
+   "desc": {
+      "message": "Launch App für Tvheadend oder andere TV Streams."
+   },
+   "github": {
+      "message": "\u003Ca href='https://github.com/mosterme/chrome-launch-app-tvheadend'>https://github.com/mosterme/chrome-launch-app-tvheadend\u003C/a>"
+   },
+   "link": {
+      "message": "Links"
+   },
+   "name": {
+      "message": "Launch App - Tvheadend"
+   },
+   "options": {
+      "message": "Tvheadend - Optionen"
+   },
+   "save": {
+      "message": "Speichern und Los"
+   },
+   "short": {
+      "message": "Fernsehen"
+   },
+   "simply": {
+      "message": "Goog-TV aus \u003Ca href='http://chadjackson.deviantart.com/art/Simply-Google-II-Part-I-192918636'>Simply Google II: Part I\u003C/a> von \u003Ca href='http://chadjackson.deviantart.com/'>Chad Jackson\u003C/a>."
+   },
+   "tvhead": {
+      "message": "\u003Ca href='https://tvheadend.org'>Tvheadend\u003C/a> ist ein TV-Streaming-Server für Linux."
+   },
+   "url": {
+      "message": "URL"
+   }
 }
