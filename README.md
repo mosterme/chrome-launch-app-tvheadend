@@ -13,4 +13,5 @@ If you really want to, you could also use it to launch [vimeo](https://vimeo.com
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 
-######Icon Goog-TV from [Simply Google II: Part I](http://chadjackson.deviantart.com/art/Simply-Google-II-Part-I-192918636) by [Chad Jackson](http://chadjackson.deviantart.com/). [Tvheadend](https://tvheadend.org) is a TV streaming server for Linux. ([github](https://github.com/tvheadend/tvheadend))
+######Icon Goog-TV from [Simply Google II: Part I](http://chadjackson.deviantart.com/art/Simply-Google-II-Part-I-192918636) by [Chad Jackson](http://chadjackson.deviantart.com/).
+######[Tvheadend](https://tvheadend.org) is a TV streaming server for Linux. ([github](https://github.com/tvheadend/tvheadend))
