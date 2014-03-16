@@ -1,0 +1,8 @@
+body{background:#eee;font-family:sans-serif}
+dt{font-weight:700}
+dd{margin-bottom:10px}
+div{background-color:#fff;border:2px solid #bbb;border-radius:20px;margin:48px auto 20px;padding:0 30px 30px;width:620px}
+h1{background:url(256.png) no-repeat;background-size:48px;border-bottom:3px dotted #ccc;color:#356;padding:10px 90px}
+h4{border-bottom:2px dotted #ccc;color:#467;margin:48px 0 10px}
+input{padding:2px}
+small{display:block;margin:20px 0}
